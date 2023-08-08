@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thawzinoo
 - 👀 I’m interested in ...learning programming language
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...Web Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
